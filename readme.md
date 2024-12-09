@@ -1,5 +1,58 @@
 # KnockOut
 
+[Go to the Spanish readme](#spanish)
+
+**KnockOut** is a dynamic platform fighting game designed in Unity, where up to 8 players can face off in intense battles to see who is the last one standing. With unique cumulative damage mechanics and stage-control strategies, KnockOut guarantees hours of competitive fun.
+
+This project was developed as part of the **Imagen Digital** course at the **Universidad de Extremadura** during the 2024-2025 academic year.
+
+## Main Features
+
+- **Support for up to 8 players**: Connect up to 8 controllers to enjoy local multiplayer combat.
+- **Cumulative Damage Mechanic**: Characters start at 0% damage and increase their percentage with each hit. The higher the percentage, the greater the chance of being launched off the stage!
+- **Stock System**: Each player starts with **3 stocks**. You lose a life if your character is knocked off the stage.
+- **Intuitive Controls**:
+  - **Attacks**:
+    - **NeutralA**: Basic attack.
+    - **NeutralB**: Neutral special attack.
+    - **SideB**: Directional special attack.
+  - **Jump**: Press **Y** to jump and control the air.
+
+## Credits
+
+**KnockOut** was designed and developed by a talented team of enthusiasts working in different key areas to bring the game to life:
+
+- **[Alejandro Barrena Millán](https://github.com/Alexeido)**: Lead developer, responsible for programming and game mechanics.
+- **[Javier Chacón Milán](https://github.com/Chakichan)**: Artist and modeler, responsible for character design, stages, and visual elements.
+- **[Raúl Martín-Romo Sánchez](https://github.com/Thander11)**: Scene creation, dynamics menus and sound design, bringing the world of KnockOut to life through environment and audio.
+
+## Originality of the Content
+
+All content in **KnockOut** is entirely original, created specifically for this project. This includes:
+
+- **Characters**: All fighters are designed from scratch with unique moves and styles.
+- **Sounds**: The soundtrack, sound effects, and other audio elements are 100% original.
+- **Maps and Stages**: Each level is uniquely designed to provide a distinct fighting experience.
+- **Menus and UI Elements**: Menus and graphical interfaces have been created with a custom aesthetic that reflects the identity of KnockOut.
+
+This commitment to originality ensures that every detail of the game is unique and represents the creative effort of the team.
+
+## License
+
+This project is licensed under the **Apache License 2.0**. You are free to use, modify, and distribute this project as long as you comply with the terms of the license.
+
+See the [LICENSE](LICENSE) file for more details.
+
+---
+
+Experience the fun of KnockOut and challenge your friends to see who can master the chaos of the stage!
+
+---
+
+<a id="spanish"></a>
+
+# KnockOut (Español)
+
 **KnockOut** es un dinámico juego de lucha de plataformas diseñado en Unity, donde hasta 8 jugadores pueden enfrentarse en intensos combates para demostrar quién es el último en pie. Con mecánicas únicas de daño acumulativo y estrategias centradas en el control del escenario, KnockOut garantiza horas de diversión competitiva.
 
 Este proyecto fue desarrollado como parte de la asignatura de **Imagen Digital** de la **Universidad de Extremadura** durante el curso académico 2024-2025.
@@ -22,7 +75,7 @@ Este proyecto fue desarrollado como parte de la asignatura de **Imagen Digital**
 
 - **[Alejandro Barrena Millán](https://github.com/Alexeido)**: Desarrollador principal, encargado de la programación y mecánicas del juego.
 - **[Javier Chacón Milán](https://github.com/Chakichan)**: Artista y modelador, responsable del diseño de los personajes, escenarios y elementos visuales.
-- **[Raúl Martín-Romo Sánchez](https://github.com/Thander11)**: Encargado de la creación de escenas y diseño de sonido, dando vida al mundo de KnockOut a través de la ambientación y el audio.
+- **[Raúl Martín-Romo Sánchez](https://github.com/Thander11)**: Encargado de la creación de escenas, menús dinamicos y diseño de sonido, dando vida al mundo de KnockOut a través de la ambientación y el audio.
 
 ## Originalidad del contenido
 
@@ -34,7 +87,6 @@ Todo el contenido de **KnockOut** es completamente original y ha sido creado esp
 - **Menús y elementos UI**: Los menús y las interfaces gráficas han sido creados con una estética personalizada que refleja la identidad de KnockOut.
 
 Este compromiso con la originalidad asegura que cada detalle del juego sea único y represente el esfuerzo creativo del equipo.
-
 
 ## Licencia
 
