@@ -20,9 +20,9 @@ Este proyecto fue desarrollado como parte de la asignatura de **Imagen Digital**
 
 **KnockOut** ha sido diseñado y desarrollado por un talentoso equipo de entusiastas que han trabajado en diferentes áreas clave para dar vida al juego:
 
-- **Alejandro Barrena Millán**: Desarrollador principal, encargado de la programación y mecánicas del juego.
-- **Javier Chacón Milán**: Artista y modelador, responsable del diseño de los personajes, escenarios y elementos visuales.
-- **Raúl Martín-Romo Sánchez**: Encargado de la creación de escenas y diseño de sonido, dando vida al mundo de KnockOut a través de la ambientación y el audio.
+- **[Alejandro Barrena Millán](https://github.com/Alexeido)**: Desarrollador principal, encargado de la programación y mecánicas del juego.
+- **[Javier Chacón Milán](https://github.com/Chakichan)**: Artista y modelador, responsable del diseño de los personajes, escenarios y elementos visuales.
+- **[Raúl Martín-Romo Sánchez](https://github.com/Thander11)**: Encargado de la creación de escenas y diseño de sonido, dando vida al mundo de KnockOut a través de la ambientación y el audio.
 
 ## Originalidad del contenido
 
