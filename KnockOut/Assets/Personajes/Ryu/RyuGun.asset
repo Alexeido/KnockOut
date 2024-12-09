@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8943d9b706f7d874180999617d0a56b3, type: 3}
+  m_Name: RyuGun
+  m_EditorClassIdentifier: 
+  attackName: RyuGun
+  attackAnimation: {fileID: 7400000, guid: 8640a532393bfc9449c61da254df91f4, type: 2}
+  attackSounds:
+  - {fileID: 8300000, guid: 4ad32dc4a895b094dbe87f3f437db018, type: 3}
+  - {fileID: 8300000, guid: ccdc302b125928d40a0b29751880b10c, type: 3}
+  - {fileID: 8300000, guid: c618804e3f8afb142a73418cafc8ef7b, type: 3}
+  - {fileID: 8300000, guid: 46ca3e125d295354588133df386fa8b8, type: 3}
+  - {fileID: 8300000, guid: 87166509b6787144d8b2b377901e053b, type: 3}
+  hitSounds: []
+  startUpTime: 2
+  activeTime: 0
+  recoveryTime: 0
+  freezerAttack: 1
+  hitboxPosition: {x: 0, y: 0}
+  hitboxSize: {x: 0, y: 0}
+  damage: 0.7
+  knockback: {x: 0.1, y: 0.05}
+  knockbackScaling: 0.5
+  baseKnockback: 0.1
+  knockbackMultiplier: 1
+  priority: 10
+  minHealing: 0
+  maxHealing: 0
+  requiresStanding: 0
+  usableInAir: 1
+  attackType: 1
+  projectilePrefab: {fileID: 6948117560251127053, guid: b202fde5a4e79ba429d4a03a328b00eb, type: 3}
+  projectileSpeed: 12
+  maxProjectiles: 5
+  projectileLifetime: 1
+  projectileAngle: 0

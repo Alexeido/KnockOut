@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 128c5f1edaefa4c4fb3f9f7a4615edb2
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185038
+  packageName: Simple Toon
+  packageVersion: 1.0
+  assetPath: Assets/Simple Toon/Shaders/STOutline.shader
+  uploadId: 407113

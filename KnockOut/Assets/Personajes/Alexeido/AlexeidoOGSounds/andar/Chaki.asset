@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74c0e44024e26f945b4bdc6075d2bfaf, type: 3}
+  m_Name: Chaki
+  m_EditorClassIdentifier: 
+  characterName: Chaki
+  weight: 40
+  speed: 160
+  maxJumps: 2
+  idleAnimation: {fileID: 7400000, guid: ebef0436b997a244a8c74894a1f8da73, type: 2}
+  jumpAnimation: {fileID: 7400000, guid: c2258b0e726fce54dbf91d0c7f24235a, type: 2}
+  crouchAnimation: {fileID: 7400000, guid: dcefdb2eff80dd94aa266c65619255de, type: 2}
+  walkAnimation: {fileID: 7400000, guid: 013e107161dc01b4a8c7853d9b94e755, type: 2}
+  runAnimation: {fileID: 7400000, guid: 7b3fd6230d0cd5b4faff064a1d739ac2, type: 2}
+  damageAnimation: {fileID: 7400000, guid: b8f9fbe6bacae3a4da852311241e8c0e, type: 2}
+  characterIcon: {fileID: 21300000, guid: be80f28eeb2c85049ae4a09777750641, type: 3}
+  jumpSounds:
+  - {fileID: 8300000, guid: 8dc058611bbe67849a45d8db273e69e9, type: 3}
+  - {fileID: 8300000, guid: 11438eb903f3c26418f8e7ba51ab5b9a, type: 3}
+  - {fileID: 8300000, guid: 77634c8e1b017b34383a77548c5ce7f6, type: 3}
+  crouchSounds: []
+  walkSounds:
+  - {fileID: 8300000, guid: bfaf6dad689729e4ea2c701cc0da6666, type: 3}
+  - {fileID: 8300000, guid: 166a1158c15abdc4d9f06a4cdb74ea2c, type: 3}
+  - {fileID: 8300000, guid: c09df16074287004099f1b253ac483fe, type: 3}
+  - {fileID: 8300000, guid: 50ec0e38ecde74643819139adbae11c9, type: 3}
+  runSounds:
+  - {fileID: 8300000, guid: bfaf6dad689729e4ea2c701cc0da6666, type: 3}
+  - {fileID: 8300000, guid: 166a1158c15abdc4d9f06a4cdb74ea2c, type: 3}
+  - {fileID: 8300000, guid: c09df16074287004099f1b253ac483fe, type: 3}
+  - {fileID: 8300000, guid: 50ec0e38ecde74643819139adbae11c9, type: 3}
+  damageSounds: []
+  jumpSoundDelay: 0.5
+  crouchSoundDelay: 0.5
+  walkSoundDelay: 0.2
+  runSoundDelay: 0.1
+  attackSoundDelay: 0.5
+  attacks:
+  - {fileID: 11400000, guid: 1b75190fb3b9b4544a29256f194146f7, type: 2}
+  - {fileID: 11400000, guid: 4d7eb9035683a424f8fe8cd5bb430451, type: 2}
+  - {fileID: 11400000, guid: 8478cadf335db564b89dab78418695cc, type: 2}

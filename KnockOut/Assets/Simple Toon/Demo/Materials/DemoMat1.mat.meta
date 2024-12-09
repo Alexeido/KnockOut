@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ed6be4d200f44763bb6a52ceb413920
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185038
+  packageName: Simple Toon
+  packageVersion: 1.0
+  assetPath: Assets/Simple Toon/Demo/Materials/DemoMat1.mat
+  uploadId: 407113

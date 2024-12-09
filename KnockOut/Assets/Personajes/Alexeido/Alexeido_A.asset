@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8943d9b706f7d874180999617d0a56b3, type: 3}
+  m_Name: Alexeido_A
+  m_EditorClassIdentifier: 
+  attackName: RollingThunder
+  attackAnimation: {fileID: 7400000, guid: 77badfc466912fe4ca9390c145ec7f2e, type: 2}
+  attackSounds:
+  - {fileID: 8300000, guid: dc1e3122b3507b14ab8c0059e56c9364, type: 3}
+  - {fileID: 8300000, guid: 8cd9155d111275b409e56fe4cecdcb95, type: 3}
+  hitSounds: []
+  startUpTime: 4
+  activeTime: 1
+  cooldown: 0
+  recoveryTime: 0
+  freezerAttack: 0
+  hitboxPosition: {x: 28.9, y: 3.33}
+  hitboxSize: {x: 52.1, y: 34.5}
+  damage: 9
+  knockback: {x: 0.4, y: 0.6}
+  knockbackScaling: 1
+  baseKnockback: 30
+  knockbackMultiplier: 1
+  priority: 10
+  minHealing: -5
+  maxHealing: 0
+  requiresStanding: 0
+  usableInAir: 0
+  attackType: 0
+  projectilePrefab: {fileID: 0}
+  projectileSpeed: 0
+  maxProjectiles: 0
+  projectileLifetime: 0
+  projectileAngle: 0

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fd04a86ca133d4c3e9fbcec891df47ee
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185038
+  packageName: Simple Toon
+  packageVersion: 1.0
+  assetPath: Assets/Simple Toon/Shaders/STFunctions.cginc
+  uploadId: 407113

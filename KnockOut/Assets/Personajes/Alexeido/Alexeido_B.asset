@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8943d9b706f7d874180999617d0a56b3, type: 3}
+  m_Name: Alexeido_B
+  m_EditorClassIdentifier: 
+  attackName: MagicSwap
+  attackAnimation: {fileID: 7400000, guid: 667b6aea4f4308340902845a1b719516, type: 2}
+  attackSounds:
+  - {fileID: 8300000, guid: e45c3abb6e2c10444acb71d0f8396d57, type: 3}
+  - {fileID: 8300000, guid: a565008805c24434fbcb041db7a787a8, type: 3}
+  hitSounds: []
+  startUpTime: 3
+  activeTime: 2
+  cooldown: 0
+  recoveryTime: 1
+  freezerAttack: 0
+  hitboxPosition: {x: 0, y: 0}
+  hitboxSize: {x: 0, y: 0}
+  damage: 6
+  knockback: {x: 0.7, y: 0.3}
+  knockbackScaling: 0.7
+  baseKnockback: 15
+  knockbackMultiplier: 1
+  priority: 10
+  minHealing: 0
+  maxHealing: 0
+  requiresStanding: 0
+  usableInAir: 1
+  attackType: 1
+  projectilePrefab: {fileID: 6005656684470428861, guid: 8704cae4c7d2b3a4a91389157cd089ff, type: 3}
+  projectileSpeed: 8
+  maxProjectiles: 2
+  projectileLifetime: 2
+  projectileAngle: -5

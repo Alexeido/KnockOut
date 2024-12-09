@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74c0e44024e26f945b4bdc6075d2bfaf, type: 3}
+  m_Name: Shared
+  m_EditorClassIdentifier: 
+  characterName: Sackbox
+  weight: 50
+  speed: 50
+  idleAnimation: {fileID: 7400000, guid: 7244864f8e4afde43b4fc4dddea24769, type: 2}
+  jumpAnimation: {fileID: 7400000, guid: 9c72ee2b161f8764a8b6b4fb81034569, type: 2}
+  crouchAnimation: {fileID: 7400000, guid: eed42235f7490db4cbf2efd0a0ed5205, type: 2}
+  walkAnimation: {fileID: 7400000, guid: 7af862f8336c01f41b322e1d4e9e7b2a, type: 2}
+  runAnimation: {fileID: 7400000, guid: d5a658d80b4553b4f9a04dc45fd8adc2, type: 2}
+  damageAnimation: {fileID: 7400000, guid: 69037615bc03ea441bbd915daf7ea611, type: 2}
+  characterIcon: {fileID: 21300000, guid: 9f10124fe26f56249ae8d9984d05f879, type: 3}
+  attacks: []

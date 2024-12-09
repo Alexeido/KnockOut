@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8943d9b706f7d874180999617d0a56b3, type: 3}
+  m_Name: Alexeido_Healing
+  m_EditorClassIdentifier: 
+  attackName: MagicHeal
+  attackAnimation: {fileID: 7400000, guid: 185fdfa0d123ecf478b2a56345a92adc, type: 2}
+  attackSounds:
+  - {fileID: 8300000, guid: 0c4fea485a09a49469a2941fb05f0af3, type: 3}
+  hitSounds: []
+  startUpTime: 2
+  activeTime: 3
+  cooldown: 6
+  recoveryTime: 3
+  freezerAttack: 1
+  hitboxPosition: {x: 0, y: 0}
+  hitboxSize: {x: 0, y: 0}
+  damage: 0
+  knockback: {x: 0, y: 0}
+  knockbackScaling: 0
+  baseKnockback: 0
+  knockbackMultiplier: 0
+  priority: 0
+  minHealing: -1
+  maxHealing: 10
+  requiresStanding: 1
+  usableInAir: 0
+  attackType: 3
+  projectilePrefab: {fileID: 0}
+  projectileSpeed: 0
+  maxProjectiles: 0
+  projectileLifetime: 0
+  projectileAngle: 0

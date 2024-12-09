@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 1ec8b7abf6633ee45ad919fe701262a2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alexeido_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 394
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d06e6429c8a594bb714cbe6c95cc4c
+      internalID: -1596734832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 394
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44a66a68fff39145bbe9c8739c5f4b6
+      internalID: 1569809288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 394
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11cb8cabfe4b7c41b59b89c95096456
+      internalID: 1939168781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 394
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f94c78c5cdeb458f965f19cad8624
+      internalID: -470065653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 346
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a01e67a057eb6438fe52b42759b23a
+      internalID: -1891935770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 346
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f551f8c889c764cbb7d6155e2a3511
+      internalID: 1378036674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 346
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4a28dbbe4763448b35ee0f6a39270a
+      internalID: 664541974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 346
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a959cf31ab251984ab73b79fb0ab115d
+      internalID: -44004799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 346
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977235b76cbe342429815d82bfc0be8c
+      internalID: 227995242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 346
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84332c1fd66547448e8bdabc6b0ebe2
+      internalID: -1226627932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 298
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8a655ea420e534aa6333b5233724b2
+      internalID: -1120376617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 298
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc15e9d413080e34cbe5a40517c9b682
+      internalID: 1214419717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 298
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d11d0b4a0e44c4ea46ed2130bc2eba
+      internalID: 1087288297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 298
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef54346106d26f4b9ac46fdf656980e
+      internalID: -211077950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 298
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0a15bd824cd54ea57e93651d84f44
+      internalID: 1885855582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 298
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6512d98012d6b4bb72a4f4651dd68f
+      internalID: -45430690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 250
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020964d4891d1dd46a47370de95eafff
+      internalID: -1977530120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 250
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98cc3838e4ce1344b80842ce8f0a21f
+      internalID: 525266612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 252
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b60b0ab0d0f6b4a870e5116df5303f
+      internalID: -891587700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 257
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aacc091f4fed94d919a40bc088dda4
+      internalID: -127503346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 254
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60db16dc4f3f2794b8a152c6e799f767
+      internalID: -373136293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 254
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e08944fce59df40ab3276464cb32d6
+      internalID: -22887167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 202
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c26c3c65b060ab49a3d778c8e2c7f06
+      internalID: -2070998920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 202
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d504467cc846f2d4f9bdbdc633367f76
+      internalID: 776135013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 202
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902eea8eaaedfbc4d8560187aa3df185
+      internalID: -899587348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 154
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cab9cc1387e5a945ae0f5bce9c7df5c
+      internalID: 1156405694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 154
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7318f83b4a6cb44f930ef14d7e69621
+      internalID: 381853071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 154
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a4f5c44e40b245803e3be6e639380
+      internalID: -1115722575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 154
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f08d5150f5daa4b8728416ab920188
+      internalID: -1834298685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 154
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30ec712283e251439015e60cd70e234
+      internalID: 1735200317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 109
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1128a7ad0d86c8439deab27de92406d
+      internalID: 271187580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_31
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 109
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ab9b561d29e842810c28841871582
+      internalID: -800632966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 109
+        width: 36
+        height: 25
+      alignment: 9
+      pivot: {x: 0.37597147, y: 0.48015565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee36ef89cb8a2a48a14152a65401419
+      internalID: -1492456546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 109
+        width: 41
+        height: 25
+      alignment: 9
+      pivot: {x: 0.3305947, y: 0.51984406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c203fa0aa2e5c948b5f3a45e7a8dbb0
+      internalID: -1230341246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 109
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.2949, y: 0.48446175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f3428ce25c66b47ba58e4ab12b8238
+      internalID: -413727001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 109
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.30481973, y: 0.47831303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241702e2a08d0dc47a245bae412f5607
+      internalID: -2087570721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 61
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e60e7aa26427534f91f33ca35d1811f
+      internalID: 145168914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_40
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 61
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f11cbee5ead9c44997adcfa778fa1b
+      internalID: 1342090149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 61
+        width: 40
+        height: 28
+      alignment: 9
+      pivot: {x: 0.33469504, y: 0.5138912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa08deaf535d4f479b0c0af1ed56001
+      internalID: 1807180135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 61
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.37385228, y: 0.5747986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cf8150f48139b48bb214f81a476a89
+      internalID: -1398399627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 61
+        width: 24
+        height: 27
+      alignment: 9
+      pivot: {x: 0.25690332, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a0e0d6ae12504da71b70b425d388f
+      internalID: 1451211940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_45
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 61
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618ad8756da603643a3af5d24f34f4e9
+      internalID: 304081787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 13
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b628a1e5baed9c940a61f64037a5a5c5
+      internalID: 418108087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_47
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca987d2daadfa14b92db4243f70752f
+      internalID: 935101842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 13
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356180a2487a39144b5f03a6202ba383
+      internalID: -569082939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 13
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ef73b0b133d84dbd9427d8f30f958
+      internalID: -390281856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 13
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80cd3213415be1409f9556fe296c946
+      internalID: -764847874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_51
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 13
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaca4f29b78b65a4d93ed186287aca43
+      internalID: 686458554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alexeido_52
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 13
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2df7ec8c60b1c542a16e0fb45125592
+      internalID: 1912856592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d66aee702504b5942852afbb17a66026
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alexeido_0: -1596734832
+      Alexeido_1: 1569809288
+      Alexeido_10: -1120376617
+      Alexeido_11: 1214419717
+      Alexeido_12: 1087288297
+      Alexeido_13: -211077950
+      Alexeido_14: 1885855582
+      Alexeido_15: -45430690
+      Alexeido_16: -1977530120
+      Alexeido_17: 525266612
+      Alexeido_18: -891587700
+      Alexeido_19: -127503346
+      Alexeido_2: 1939168781
+      Alexeido_20: -373136293
+      Alexeido_21: -22887167
+      Alexeido_22: -2070998920
+      Alexeido_23: 776135013
+      Alexeido_24: -899587348
+      Alexeido_25: 1156405694
+      Alexeido_26: 381853071
+      Alexeido_27: -1115722575
+      Alexeido_28: -1834298685
+      Alexeido_29: 1735200317
+      Alexeido_3: -470065653
+      Alexeido_30: 271187580
+      Alexeido_31: -800632966
+      Alexeido_32: -1492456546
+      Alexeido_33: -1230341246
+      Alexeido_34: -413727001
+      Alexeido_35: -596174400
+      Alexeido_36: -2087570721
+      Alexeido_37: -559615042
+      Alexeido_38: -1409320310
+      Alexeido_39: 145168914
+      Alexeido_4: -1891935770
+      Alexeido_40: 1342090149
+      Alexeido_41: 1807180135
+      Alexeido_42: -1398399627
+      Alexeido_43: 1451211940
+      Alexeido_44: 393307890
+      Alexeido_45: 304081787
+      Alexeido_46: 418108087
+      Alexeido_47: 935101842
+      Alexeido_48: -569082939
+      Alexeido_49: -390281856
+      Alexeido_5: 1378036674
+      Alexeido_50: -764847874
+      Alexeido_51: 686458554
+      Alexeido_52: 1912856592
+      Alexeido_6: 664541974
+      Alexeido_7: -44004799
+      Alexeido_8: 227995242
+      Alexeido_9: -1226627932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

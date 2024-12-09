@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 481153b840b6e408da95e6afbe176397
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185038
+  packageName: Simple Toon
+  packageVersion: 1.0
+  assetPath: Assets/Simple Toon/Shaders/STTransparent.shader
+  uploadId: 407113

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8943d9b706f7d874180999617d0a56b3, type: 3}
+  m_Name: RyuBarrido
+  m_EditorClassIdentifier: 
+  attackName: Croche
+  attackAnimation: {fileID: 7400000, guid: 62e505a956af56a459c93c3f0313089e, type: 2}
+  attackSounds:
+  - {fileID: 8300000, guid: c8a2b471a1060f5488356f0311c39596, type: 3}
+  hitSounds: []
+  startUpTime: 2
+  activeTime: 1
+  recoveryTime: 3
+  freezerAttack: 0
+  hitboxPosition: {x: 10.6, y: 0.25}
+  hitboxSize: {x: 52, y: 65.1}
+  damage: 8
+  knockback: {x: 0.5, y: 0.3}
+  knockbackScaling: 0.7
+  baseKnockback: 40
+  knockbackMultiplier: 1
+  priority: 10
+  minHealing: 0
+  maxHealing: 0
+  requiresStanding: 0
+  usableInAir: 1
+  attackType: 0
+  projectilePrefab: {fileID: 0}
+  projectileSpeed: 0
+  maxProjectiles: 0
+  projectileLifetime: 0
+  projectileAngle: 0

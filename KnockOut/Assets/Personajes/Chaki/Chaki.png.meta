@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 7012f6f65631937419bdc486d8d4c98b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chaki_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 383
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb3b09a0142ccf4283228fa711bb0e9
+      internalID: -1157750972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 383
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858bbc465f3539a4ca524c6de05bd990
+      internalID: -755564849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 383
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1a9eb6b5e8904c96a2769458e54c7
+      internalID: -204981223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 383
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf7427d95d23f48b5a25a098087e69
+      internalID: -1291530024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 335
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875284eedffce9f43b8e42f70c5b84e2
+      internalID: 1325617322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 335
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e715bf8827025e40b5c454aebcedbe1
+      internalID: 1945123630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 335
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4e2f02ee834e54dac6e11008f2048e
+      internalID: -1383604869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 335
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bac39301f53c34da4ec5cd6f8c0da6
+      internalID: 330802070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 335
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c5e86f6c07f8f45b3f5edbf62ecea6
+      internalID: 1158801874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 335
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1414d9c24ffd504d8a5626a3c340649
+      internalID: 1219384934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 287
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec770668c1ff14582d02d2f4b10996
+      internalID: -1775027541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 287
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916f538b3870068428e86320a173da27
+      internalID: 529210502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 287
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643222770999e3d46a57dca48f582cce
+      internalID: -928442536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 287
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7370794d422bf48a7cedb0fd8e5445
+      internalID: -2100741990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 287
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7488f1853463b748b7538f78497e982
+      internalID: -2037494261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 287
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d19f305f2adbbb4e900ae18914dc2c3
+      internalID: -382864048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c9156ae6ac3f040b509f6bc57bf0a4
+      internalID: 2015632731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 239
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354880a7a1d11624094aa1e938666fe8
+      internalID: -117868794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 241
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf122eaa3bc0b34cb79aee0ac3d0162
+      internalID: -1440953822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_19
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 246
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c85aeee3c19754dbfac0d2aa59c94f
+      internalID: -1384225419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 243
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7fa18d2cddd95498503ee547a8afdc
+      internalID: 1959608801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 243
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a698cb115823b64a90e283fd9e8b965
+      internalID: 104929093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27e94d0d2441843a9d339966e188d3
+      internalID: 1653896387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea975b08279f04649835799befbd1db1
+      internalID: 1033176903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 191
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2e73f5501057644b0e38b60db3be31
+      internalID: 884936144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdab9ce2320becf4a9651eba2ca613f7
+      internalID: -497117476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 143
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb81fc91d0689194aba034e169d72f54
+      internalID: 410965853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 143
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf0d2cf7eacf9478bd1c4bf5301eea
+      internalID: 497436046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 143
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.80526525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b428481877604185fd2cc7564787b
+      internalID: 639365666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 142
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.48401108, y: 0.74711955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3c992dee048ff48a1ddc5459879e3d
+      internalID: 800570045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 102
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52af4e5779e65b344ac7dce2788aeddf
+      internalID: -604207979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 102
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5478127, y: 0.52231395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a64bade286994a9dfd0a266a5d7e9
+      internalID: 2129437049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 102
+        width: 43
+        height: 25
+      alignment: 9
+      pivot: {x: 0.6494517, y: 0.4632779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d154f899d5d2a429597847f5e02672
+      internalID: 777829577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 102
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.702149, y: 0.53588426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c48a5d23a558c4ca51306cb9ee7b78
+      internalID: 1282423335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_35
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 102
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.67311674, y: 0.52390724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7103ee04232a6134c95c985005cb4708
+      internalID: -490369067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540a8d6e975180b4a89650ad552f3962
+      internalID: 1383925055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 54
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ca87aa6010d384593ddcd18e4aa6a7
+      internalID: -853847129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 54
+        width: 43
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6469054, y: 0.5404936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a5aefd82da97e4f887b1839fa9ac25
+      internalID: -1305297837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 54
+        width: 44
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6052822, y: 0.54386806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776df54d37c755d48823a66e59b5d122
+      internalID: -613584059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241b30f0374458428abbd4b493dda03
+      internalID: 190386823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7bc46e34e998f408c827d67c038f53
+      internalID: 952051202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 6
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7207399, y: 0.5277961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3ccf960cd57764a9087af6a58ae97a
+      internalID: -1814620537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6
+        width: 38
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5329176, y: 0.56254274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8241c8df6c6ae24e812758bcda1e0f8
+      internalID: -1603518887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_49
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.3084445, y: 0.8014982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7071b043e3a1a4e841a67e51274f15
+      internalID: 222206250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 5
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4222824, y: 0.8297171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70422c561957516479c0f497b5a74ccd
+      internalID: -1827490166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 102
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6538427, y: 0.51912594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c20c006cee5d74a9d7d9ecae873d44
+      internalID: -644393172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_41
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 54
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.69918287, y: 0.5080995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96265247e27d2784abe169bad6c5d9cd
+      internalID: 1268438558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 5
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.26435375, y: 0.81340575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f9e1bcea0f80746920be3fe818d922
+      internalID: -991750380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chaki_42
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 54
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24bd5f4b4fba394ba093f9f690c8864
+      internalID: 1317886994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b287656dd1ed8664bb02b17a546b7673
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chaki_0: -1157750972
+      Chaki_1: -755564849
+      Chaki_10: -1775027541
+      Chaki_11: 529210502
+      Chaki_12: -928442536
+      Chaki_13: -2100741990
+      Chaki_14: -2037494261
+      Chaki_15: -382864048
+      Chaki_16: 2015632731
+      Chaki_17: -117868794
+      Chaki_18: -1440953822
+      Chaki_19: -1384225419
+      Chaki_2: -204981223
+      Chaki_20: 1959608801
+      Chaki_21: 104929093
+      Chaki_22: 1653896387
+      Chaki_23: 1033176903
+      Chaki_24: 884936144
+      Chaki_25: -497117476
+      Chaki_26: 410965853
+      Chaki_27: 497436046
+      Chaki_28: 639365666
+      Chaki_29: 800570045
+      Chaki_3: -1291530024
+      Chaki_30: -604207979
+      Chaki_31: 2129437049
+      Chaki_32: 777829577
+      Chaki_33: -644393172
+      Chaki_34: 1282423335
+      Chaki_35: -490369067
+      Chaki_37: 1383925055
+      Chaki_38: -853847129
+      Chaki_39: -1305297837
+      Chaki_4: 1325617322
+      Chaki_40: -613584059
+      Chaki_41: 1268438558
+      Chaki_42: 1317886994
+      Chaki_43: 674399823
+      Chaki_44: 1346052717
+      Chaki_45: 190386823
+      Chaki_46: 952051202
+      Chaki_47: -1814620537
+      Chaki_48: -1603518887
+      Chaki_49: 222206250
+      Chaki_5: 1945123630
+      Chaki_50: -991750380
+      Chaki_51: -1827490166
+      Chaki_53: 946931034
+      Chaki_54: 1258144698
+      Chaki_6: -1383604869
+      Chaki_7: 330802070
+      Chaki_8: 1158801874
+      Chaki_9: 1219384934
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

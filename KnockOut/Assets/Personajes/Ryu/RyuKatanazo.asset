@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8943d9b706f7d874180999617d0a56b3, type: 3}
+  m_Name: RyuKatanazo
+  m_EditorClassIdentifier: 
+  attackName: Katanazo Fino
+  attackAnimation: {fileID: 7400000, guid: 8ca6e5e032402d7479b87a3a3d0e26ef, type: 2}
+  attackSounds:
+  - {fileID: 8300000, guid: 2ed3676078e8ccd4cb3c8ab3857347c2, type: 3}
+  hitSounds: []
+  startUpTime: 2
+  activeTime: 1
+  recoveryTime: 2
+  freezerAttack: 1
+  hitboxPosition: {x: 21.4, y: 1.34}
+  hitboxSize: {x: 32.9, y: 49.3}
+  damage: 11
+  knockback: {x: 0.7, y: 0.5}
+  knockbackScaling: 1
+  baseKnockback: 40
+  knockbackMultiplier: 1
+  priority: 10
+  minHealing: 0
+  maxHealing: 0
+  requiresStanding: 1
+  usableInAir: 0
+  attackType: 0
+  projectilePrefab: {fileID: 0}
+  projectileSpeed: 0
+  maxProjectiles: 0
+  projectileLifetime: 0
+  projectileAngle: 0

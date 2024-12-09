@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 69d7471035c7c40f695a9199c7916a3e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185038
+  packageName: Simple Toon
+  packageVersion: 1.0
+  assetPath: Assets/Simple Toon/Shaders/STCore.cginc
+  uploadId: 407113
